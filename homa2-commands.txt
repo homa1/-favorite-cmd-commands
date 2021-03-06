@@ -1,0 +1,6 @@
+mkdir: is a useful command you can use to create directories. Any number of directories can be created simultaneously which can greatly speed up the process.
+
+cd: will change the directory you’re in so that you can get info, manipulate, read, etc. the different files and directories in your system.
+
+mv: is used to move or rename directories. Without this command, you would have to individually rename each file which is tedious. mv allows you to do batch file renaming which can save you loads of time.
+
